@@ -6,4 +6,4 @@ This is a repository for all Scala labs, for the ID2203 VT23 Distributed Systems
 - :floppy_disk: Lang: Scala
 - :books: Contents:
         
-        1. 
+        1. Homework 1 (Eventually Perfect Failure Detector)
